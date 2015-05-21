@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GATEWAY</Machine>
+    <WindowsUser>Alvin Julian</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>602c85f5-828e-487e-98df-0b40ed492c6a</PackageIdentityName>
+    <IntermediateOutputPath>c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.WindowsPhone\bin\Debug\JajanYuk.WindowsPhone.exe">
+      <PackagePath>JajanYuk.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.WindowsPhone\Assets\666259.jpeg">
+      <PackagePath>Assets\666259.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.WindowsPhone\Assets\dsc02518-scaled1000.jpg">
+      <PackagePath>Assets\dsc02518-scaled1000.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.WindowsPhone\Assets\Risoles.jpg">
+      <PackagePath>Assets\Risoles.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.WindowsPhone\bin\Debug\ResepPempekDos.xbf">
+      <PackagePath>ResepPempekDos.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.WindowsPhone\bin\Debug\JajanYuk.WindowsPhone.xr.xml">
+      <PackagePath>JajanYuk.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

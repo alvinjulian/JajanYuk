@@ -1,0 +1,1 @@
+c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.WindowsPhone\JajanYuk.WindowsPhone.csproj;neutral

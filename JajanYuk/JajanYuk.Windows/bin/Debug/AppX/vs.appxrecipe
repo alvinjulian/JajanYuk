@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GATEWAY</Machine>
+    <WindowsUser>Alvin Julian</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>df1dabab-985f-487f-bd48-34ac937b6114</PackageIdentityName>
+    <IntermediateOutputPath>c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>FFF97B18932C983CD9394C7CBF3A4FB39535E69C06636B2975AFEF8577889BD4</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>df1dabab-985f-487f-bd48-34ac937b6114_1.0.0.0_neutral__scmvyp49nwpb2</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>df1dabab-985f-487f-bd48-34ac937b6114_scmvyp49nwpb2!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>df1dabab-985f-487f-bd48-34ac937b6114</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Alvin Julian</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-21T15:06:47.380</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\bin\Debug\JajanYuk.Windows.exe">
+      <PackagePath>JajanYuk.Windows.exe</PackagePath>
+      <Modified>2015-05-21T15:06:47.136</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\Assets\666259.jpeg">
+      <PackagePath>Assets\666259.jpeg</PackagePath>
+      <Modified>2015-05-21T15:00:37.773</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T03:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T03:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T03:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T03:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\Assets\Risoles.jpg">
+      <PackagePath>Assets\Risoles.jpg</PackagePath>
+      <Modified>2015-05-21T15:04:16.848</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\Assets\dsc02518-scaled1000.jpg">
+      <PackagePath>Assets\dsc02518-scaled1000.jpg</PackagePath>
+      <Modified>2015-05-21T14:51:09.084</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-05-21T14:32:15.779</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-05-21T15:06:46.751</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\bin\Debug\JajanYuk.Windows.xr.xml">
+      <PackagePath>JajanYuk.Windows.xr.xml</PackagePath>
+      <Modified>2015-05-21T15:06:46.694</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-05-21T15:06:47.238</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

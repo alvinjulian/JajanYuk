@@ -1,0 +1,35 @@
+﻿<Page
+    x:Class="JajanYuk.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:JajanYuk"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Name="LayoutRoot" Background="BlanchedAlmond">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Canvas x:Name="ContentPanel" Margin="376,0,0,0" HorizontalAlignment="Left" Grid.Row="1" RenderTransformOrigin="0.5,0.5">
+            <Canvas.RenderTransform>
+                <CompositeTransform Rotation="-0"/>
+            </Canvas.RenderTransform>
+            <TextBlock x:Name="lbl_JajanYuk" HorizontalAlignment="Left" Grid.Row="1" TextWrapping="Wrap" Text="Jajan Yuk!" VerticalAlignment="Top" FontSize="52" Foreground="#FF000C57" Canvas.Left="-336" Canvas.Top="41" Height="77" Width="236"/>
+            <TextBlock x:Name="lbl_subJudul" HorizontalAlignment="Left" Grid.Row="1" TextWrapping="Wrap" Text="Jajan Sehat ala Rumahan ^^" VerticalAlignment="Top" Foreground="Red" Canvas.Left="-336" Canvas.Top="105"/>
+            <TextBlock x:Name="DateText" HorizontalAlignment="Left" Margin="1159,37,0,0" Grid.Row="1" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Foreground="#FF000CFF" FontSize="36"/>
+            <Image HorizontalAlignment="Left" Height="160" Grid.RowSpan="2" VerticalAlignment="Top" Width="213" Source="dsc02518-scaled1000.jpg" Stretch="UniformToFill" Canvas.Top="147" Canvas.Left="-332"/>
+            <TextBlock HorizontalAlignment="Left" Grid.Row="1" TextWrapping="Wrap" Text="Resep Pempek Dos" VerticalAlignment="Top" FontSize="20" Foreground="Black" Canvas.Left="-98" Canvas.Top="165"/>
+            <Button x:Name="btn_Pempek" Content="Lihat Selengkapnya.." HorizontalAlignment="Left" Grid.Row="1" VerticalAlignment="Top" BorderBrush="#FF20B92E" Foreground="Black" Background="#FFFFF2A2" Canvas.Left="-99" Canvas.Top="192"/>
+            <Image HorizontalAlignment="Left" Height="160" VerticalAlignment="Top" Width="213" Source="Assets/666259.jpeg" Stretch="UniformToFill" Canvas.Top="331" Canvas.Left="-331"/>
+            <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Resep Martabak Manis" VerticalAlignment="Top" FontSize="20" Foreground="Black" Canvas.Left="-97" Canvas.Top="349"/>
+            <Button x:Name="btn_MartabakManis" Content="Lihat Selengkapnya.." HorizontalAlignment="Left" VerticalAlignment="Top" BorderBrush="#FF20B92E" Foreground="Black" Background="#FFFFF2A2" Canvas.Left="-98" Canvas.Top="376"/>
+            <Image HorizontalAlignment="Left" Height="160" VerticalAlignment="Top" Width="213" Source="Assets/Risoles.jpg" Stretch="UniformToFill" Canvas.Top="513" Canvas.Left="-331"/>
+            <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Resep Risoles Mayo" VerticalAlignment="Top" FontSize="20" Foreground="Black" Canvas.Left="-97" Canvas.Top="531"/>
+            <Button x:Name="btn_RisolesMayo" Content="Lihat Selengkapnya.." HorizontalAlignment="Left" VerticalAlignment="Top" BorderBrush="#FF20B92E" Foreground="Black" Background="#FFFFF2A2" Canvas.Left="-98" Canvas.Top="558"/>
+        </Canvas>
+
+
+    </Grid>
+</Page>
