@@ -30,3 +30,13 @@ c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\Ja
 c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\obj\Debug\qualifiers.txt.intermediate
 c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\obj\Debug\ProjectArchitectures.txt
+c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\bin\Debug\ResepMartabakManis.xbf
+c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\bin\Debug\ResepPempekDos.xbf
+c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\obj\Debug\ResepMartabakManis.g.i.cs
+c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\obj\Debug\ResepMartabakManis.g.cs
+c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\obj\Debug\ResepPempekDos.g.i.cs
+c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\obj\Debug\ResepPempekDos.g.cs
+c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\obj\Debug\ResepMartabakManis.xaml
+c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\obj\Debug\ResepPempekDos.xaml
+c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\obj\Debug\ResepMartabakManis.xbf
+c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\obj\Debug\ResepPempekDos.xbf

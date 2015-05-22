@@ -50,6 +50,12 @@
     <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\bin\Debug\ResepMartabakManis.xbf">
+      <PackagePath>ResepMartabakManis.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\bin\Debug\ResepPempekDos.xbf">
+      <PackagePath>ResepPempekDos.xbf</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\bin\Debug\JajanYuk.Windows.xr.xml">
       <PackagePath>JajanYuk.Windows.xr.xml</PackagePath>
     </AppxPackagedFile>

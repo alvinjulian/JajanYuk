@@ -124,15 +124,19 @@ namespace JajanYuk.JajanYuk_Windows_XamlTypeInfo
 
         private void InitTypeTables()
         {
-            _typeNameTable = new string[3];
+            _typeNameTable = new string[5];
             _typeNameTable[0] = "JajanYuk.MainPage";
             _typeNameTable[1] = "Windows.UI.Xaml.Controls.Page";
             _typeNameTable[2] = "Windows.UI.Xaml.Controls.UserControl";
+            _typeNameTable[3] = "JajanYuk.ResepMartabakManis";
+            _typeNameTable[4] = "JajanYuk.ResepPempekDos";
 
-            _typeTable = new global::System.Type[3];
+            _typeTable = new global::System.Type[5];
             _typeTable[0] = typeof(global::JajanYuk.MainPage);
             _typeTable[1] = typeof(global::Windows.UI.Xaml.Controls.Page);
             _typeTable[2] = typeof(global::Windows.UI.Xaml.Controls.UserControl);
+            _typeTable[3] = typeof(global::JajanYuk.ResepMartabakManis);
+            _typeTable[4] = typeof(global::JajanYuk.ResepPempekDos);
         }
 
         private int LookupTypeIndexByName(string typeName)
@@ -168,6 +172,8 @@ namespace JajanYuk.JajanYuk_Windows_XamlTypeInfo
         }
 
         private object Activate_0_MainPage() { return new global::JajanYuk.MainPage(); }
+        private object Activate_3_ResepMartabakManis() { return new global::JajanYuk.ResepMartabakManis(); }
+        private object Activate_4_ResepPempekDos() { return new global::JajanYuk.ResepPempekDos(); }
 
         private global::Windows.UI.Xaml.Markup.IXamlType CreateXamlType(int typeIndex)
         {
@@ -192,6 +198,20 @@ namespace JajanYuk.JajanYuk_Windows_XamlTypeInfo
 
             case 2:   //  Windows.UI.Xaml.Controls.UserControl
                 xamlType = new global::JajanYuk.JajanYuk_Windows_XamlTypeInfo.XamlSystemBaseType(typeName, type);
+                break;
+
+            case 3:   //  JajanYuk.ResepMartabakManis
+                userType = new global::JajanYuk.JajanYuk_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_3_ResepMartabakManis;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 4:   //  JajanYuk.ResepPempekDos
+                userType = new global::JajanYuk.JajanYuk_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_4_ResepPempekDos;
+                userType.SetIsLocalType();
+                xamlType = userType;
                 break;
             }
             return xamlType;

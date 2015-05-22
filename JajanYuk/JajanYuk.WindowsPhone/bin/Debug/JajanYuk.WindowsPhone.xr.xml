@@ -78,6 +78,7 @@
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.RichTextBlock">
       <RootProperty Name="Height" />
+      <RootProperty Name="Margin" />
       <RootProperty Name="DataContext" />
       <RootProperty Name="Blocks" />
     </RootType>

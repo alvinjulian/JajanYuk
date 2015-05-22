@@ -20,13 +20,13 @@
     <AppXManifest Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-05-21T15:06:47.380</Modified>
+      <Modified>2015-05-22T04:52:04.063</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\bin\Debug\JajanYuk.Windows.exe">
       <PackagePath>JajanYuk.Windows.exe</PackagePath>
-      <Modified>2015-05-21T15:06:47.136</Modified>
+      <Modified>2015-05-22T04:52:03.661</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\Assets\666259.jpeg">
       <PackagePath>Assets\666259.jpeg</PackagePath>
@@ -66,15 +66,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2015-05-21T15:06:46.751</Modified>
+      <Modified>2015-05-22T04:52:03.226</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\bin\Debug\ResepMartabakManis.xbf">
+      <PackagePath>ResepMartabakManis.xbf</PackagePath>
+      <Modified>2015-05-22T04:52:03.226</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\bin\Debug\ResepPempekDos.xbf">
+      <PackagePath>ResepPempekDos.xbf</PackagePath>
+      <Modified>2015-05-22T04:52:03.233</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\bin\Debug\JajanYuk.Windows.xr.xml">
       <PackagePath>JajanYuk.Windows.xr.xml</PackagePath>
-      <Modified>2015-05-21T15:06:46.694</Modified>
+      <Modified>2015-05-22T04:52:03.152</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.Windows\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-05-21T15:06:47.238</Modified>
+      <Modified>2015-05-22T04:52:03.788</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
