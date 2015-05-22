@@ -24,7 +24,7 @@
             <Button x:Name="btn_Pempek" Content="Lihat Selengkapnya.." HorizontalAlignment="Left" Grid.Row="1" VerticalAlignment="Top" BorderBrush="#FF20B92E" Foreground="Black" Background="#FFFFF2A2" Canvas.Left="-200" Canvas.Top="176" Height="42" Width="184" Click="btn_Pempek_Click"/>
             <Image HorizontalAlignment="Left" Height="93" VerticalAlignment="Top" Width="133" Source="Assets/666259.jpeg" Stretch="UniformToFill" Canvas.Top="280" Canvas.Left="-347"/>
             <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Resep Martabak Manis" VerticalAlignment="Top" FontSize="20" Foreground="Black" Canvas.Left="-199" Canvas.Top="283"/>
-            <Button x:Name="btn_MartabakManis" Content="Lihat Selengkapnya.." HorizontalAlignment="Left" VerticalAlignment="Top" BorderBrush="#FF20B92E" Foreground="Black" Background="#FFFFF2A2" Canvas.Left="-200" Canvas.Top="310"/>
+            <Button x:Name="btn_MartabakManis" Content="Lihat Selengkapnya.." HorizontalAlignment="Left" VerticalAlignment="Top" BorderBrush="#FF20B92E" Foreground="Black" Background="#FFFFF2A2" Canvas.Left="-200" Canvas.Top="310" Click="btn_MartabakManis_Click"/>
             <Image HorizontalAlignment="Left" Height="127" VerticalAlignment="Top" Width="138" Source="Assets/Risoles.jpg" Stretch="UniformToFill" Canvas.Top="398" Canvas.Left="-352"/>
             <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Resep Risoles Mayo" VerticalAlignment="Top" FontSize="20" Foreground="Black" Canvas.Left="-198" Canvas.Top="415"/>
             <Button x:Name="btn_RisolesMayo" Content="Lihat Selengkapnya.." HorizontalAlignment="Left" VerticalAlignment="Top" BorderBrush="#FF20B92E" Foreground="Black" Background="#FFFFF2A2" Canvas.Left="-199" Canvas.Top="442"/>

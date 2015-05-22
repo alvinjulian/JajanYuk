@@ -58,6 +58,9 @@
     <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.WindowsPhone\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.WindowsPhone\bin\Debug\ResepMartabakManis.xbf">
+      <PackagePath>ResepMartabakManis.xbf</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.WindowsPhone\bin\Debug\ResepPempekDos.xbf">
       <PackagePath>ResepPempekDos.xbf</PackagePath>
     </AppxPackagedFile>

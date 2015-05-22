@@ -11,58 +11,113 @@
     <Grid Background="BlanchedAlmond">
         <TextBlock TextWrapping="Wrap" Text="Resep Pempek Dos" FontSize="22" Foreground="Black" HorizontalAlignment="Center" Margin="0,30,0,50"/>
         <Image HorizontalAlignment="Left" Height="120" Margin="113,65,0,0" VerticalAlignment="Top" Width="161" Source="Assets/dsc02518-scaled1000.jpg"/>
-        <ScrollViewer VerticalScrollBarVisibility="Auto">
-            <TextBlock Text="RESEP ADONAN DASAR PEMPEK DOS
+        <ScrollViewer x:Name="sv" VerticalScrollBarVisibility="Auto" Margin="20,205,20,-205" Foreground="#FF0E0000"
+                      
+                      VerticalScrollMode="Auto"
+          >
+            
+            <!--<Viewbox Margin="20,200,20,0">-->
+                <RichTextBlock ScrollViewer.VerticalScrollBarVisibility="Auto" Height="1025" >
+                <RichTextBlock.DataContext>
+                    {}
+                </RichTextBlock.DataContext>
+                <Paragraph FontWeight="Bold" FontFamily="Arial Unicode MS">
+                    BAHAN :</Paragraph>
+                <Paragraph FontWeight="Bold" FontFamily="Arial Unicode MS">
+                    <LineBreak></LineBreak>
+                    
+                   BAHAN BIANG :
+                    <LineBreak></LineBreak>
+                </Paragraph>
+                    
+                <Paragraph>
+                    60 gram tepung terigu protein sedang</Paragraph>
+                <Paragraph>
+                    125 ml air</Paragraph>
+                <Paragraph>
+                    1 siung bawang putih yang besar</Paragraph>
+                <Paragraph>
+                    2 sdm ebi sangrai</Paragraph>
+                <Paragraph>
+                    1 sdt garam</Paragraph>
+                <Paragraph>
+                    1/2 sdt kaldu bubuk</Paragraph>
+                <Paragraph>
+                    1/2 sdt gula pasir</Paragraph>
+                <Paragraph>
+                    1 butir telur atau tanpa telur
+                    <LineBreak></LineBreak></Paragraph>
+                <Paragraph>
+                    BAHAN UTAMA :</Paragraph>
+                <Paragraph>
 
-BAHAN :
-BAHAN BIANG :
+                    100 gr tepung sagu / tapioka</Paragraph>
+                <Paragraph>
+                    Telur 2-3 butir untuk isi (bila ingin dibuat pempek kapal selam)
+                    <LineBreak></LineBreak>
+                </Paragraph>
+                <Paragraph>
+                    
+                    CARA MEMBUAT PEMPEK DOS TANPA IKAN :</Paragraph>
+                <Paragraph>
 
-    60 gram tepung terigu protein sedang
-    125 ml air
-    1 siung bawang putih yang besar
-    2 sdm ebi sangrai
-    1 sdt garam
-    1/2 sdt kaldu bubuk
-    1/2 sdt gula pasir
-    1 butir telur atau tanpa telur
+                    Haluskan bawang putih dan ebi. Masukkan ke dalam air bersama garam, gula, dan kaldu bubuk.</Paragraph>
+                <Paragraph>
+                    Didihkan air. Angkat. Langsung masukkan tepung terigu ke dalam air yang mendidih tadi. Aduk dengan sendok kayu hingga tercampur rata. Dinginkan.
+                    <Run />
+                </Paragraph>
+                <Paragraph>
+                    Setelah dingin, masukkan telur ke dalam adonan. Aduk rata. Masukkan tepung tapioka sambil diuleni hingga kalis. Jika masih lengket tambahkan sedikit lagi tepung tapioka. Selalu lumuri tangan dengan tepung saat menguleni, agar tidak lengket.</Paragraph>
+                <Paragraph>
+                    Didihkan air di atas panci. Bentuk pempek sesuai selera. Kecilkan api sampai paling kecil, jangan sampai ada letupan. Kemudian masukkan pempek. Tutup panci. Masak 15-20 menit.</Paragraph>
+                <Paragraph>
+                    Angkat pempek, tiriskan. Goreng dengan api kecil sambil sesekali dibalik-balik hingga matang.
+                    <LineBreak></LineBreak>
+                </Paragraph>
+                <Paragraph>
 
-BAHAN UTAMA :
+                    KUAH CUKO/CUKA
+                    <LineBreak></LineBreak>
+                </Paragraph>
+                <Paragraph>
+                    BAHAN :
+                </Paragraph>
+                <Paragraph>
+                    250 ml air</Paragraph>
+                <Paragraph>
+                    125 gram gula merah</Paragraph>
+                <Paragraph>
+                    1/2 sdt cuka masak boleh ganti dengan asam jawa supaya tidak merusak gigi
+                    <LineBreak></LineBreak>
+                </Paragraph>
+                <Paragraph>
 
-    100 gr tepung sagu / tapioka
-    Telur 2-3 butir untuk isi (bila ingin dibuat pempek kapal selam)
+                    BUMBU HALUS :</Paragraph>
+                <Paragraph>
 
-CARA MEMBUAT PEMPEK DOS TANPA IKAN :
+                    3 siung bawang putih</Paragraph>
+                <Paragraph>
+                    1 buah cabai rawit merah</Paragraph>
+                <Paragraph>
+                    1/4 sendok makan garam</Paragraph>
+                <Paragraph>
+                    1 sendok makan ebi yang sudah di sangrai, dan di haluskan.
+                    <LineBreak></LineBreak>
+                </Paragraph>
+                <Paragraph>
 
-    Haluskan bawang putih dan ebi. Masukkan ke dalam air bersama garam, gula, dan kaldu bubuk.
-    Didihkan air. Angkat. Langsung masukkan tepung terigu ke dalam air yang mendidih tadi. Aduk dengan sendok kayu hingga tercampur rata. Dinginkan.
-    Setelah dingin, masukkan telur ke dalam adonan. Aduk rata. Masukkan tepung tapioka sambil diuleni hingga kalis. Jika masih lengket tambahkan sedikit lagi tepung tapioka. Selalu lumuri tangan dengan tepung saat menguleni, agar tidak lengket.
-    Didihkan air di atas panci. Bentuk pempek sesuai selera. Kecilkan api sampai paling kecil, jangan sampai ada letupan. Kemudian masukkan pempek. Tutup panci. Masak 15-20 menit.
-    Angkat pempek, tiriskan. Goreng dengan api kecil sambil sesekali dibalik-balik hingga matang.
+                    CARA MEMBUAT KUAH CUKO/CUKA :</Paragraph>
+                <Paragraph>
 
-KUAH CUKO/CUKA
-
-BAHAN :
-
-    250 ml air
-    125 gram gula merah
-    1/2 sdt cuka masak boleh ganti dengan asam jawa supaya tidak merusak gigi
-
-BUMBU HALUS :
-
-    3 siung bawang putih
-    1 buah cabai rawit merah
-    1/4 sendok makan garam
-    1 sendok makan ebi yang sudah di sangrai, dan di haluskan.
-
-CARA MEMBUAT KUAH CUKO/CUKA :
-
-    Rebus air dan semua bahan hingga mendidih, angkat, saring. 
-    Kalau mau bikin banyak, sisanya bisa dimasukkan botol, simpan di kulkas.
-">
-                
-            </TextBlock>
+                    Rebus air dan semua bahan hingga mendidih, angkat, saring.</Paragraph>
+                <Paragraph>
+                    Kalau mau bikin banyak, sisanya bisa dimasukkan botol, simpan di kulkas.</Paragraph>
+                <Paragraph>
+                    <Run></Run>
+                    </Paragraph>
+                </RichTextBlock>
+            <!--</Viewbox>-->
         </ScrollViewer>
-
     </Grid>
 </Page>
 

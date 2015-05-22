@@ -1,0 +1,83 @@
+﻿<Page
+    x:Class="JajanYuk.ResepMartabakManis"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:JajanYuk"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="BlanchedAlmond">
+        <TextBlock TextWrapping="Wrap" Text="Resep Martabak Manis" FontSize="22" Foreground="Black" HorizontalAlignment="Center" Margin="0,30,0,50" FontWeight="Bold"/>
+        <Image HorizontalAlignment="Left" Height="140" Margin="123,65,0,0" VerticalAlignment="Top" Width="147" Source="Assets/666259.jpeg"/>
+        <ScrollViewer x:Name="sv" VerticalScrollBarVisibility="Auto" Margin="20,205,20,-205" Foreground="#FF0E0000"
+                      
+                      VerticalScrollMode="Auto"
+          >
+
+            <!--<Viewbox Margin="20,200,20,0">-->
+            <RichTextBlock ScrollViewer.VerticalScrollBarVisibility="Auto" Height="650" >
+                <RichTextBlock.DataContext>
+                    {}
+                </RichTextBlock.DataContext>
+                <Paragraph>
+                Bahan Martabak : 
+                    <LineBreak></LineBreak>
+                    </Paragraph>
+                <Paragraph>
+                    2 butir telur
+                </Paragraph>
+                <Paragraph>
+                1 sdt ragi instan
+                </Paragraph>
+                <Paragraph>
+                    1/4 sdt baking powder
+50 gr gula pasir
+                </Paragraph>
+                <Paragraph>
+                    175 ml air
+                </Paragraph>
+                <Paragraph>
+                    1/4 sdt garam</Paragraph>
+                <Paragraph>
+                    125 gr tepung terigu
+                    <LineBreak></LineBreak></Paragraph>
+                <Paragraph>
+                    Bahan taburan :</Paragraph>
+                <Paragraph>
+                    Keju Cheddar</Paragraph>
+                <Paragraph>
+                    Meises</Paragraph>
+                <Paragraph>
+                    Gula pasir</Paragraph>
+                <Paragraph>
+                    Susu kental manis
+                    <LineBreak></LineBreak>
+                </Paragraph>
+                <Paragraph>
+
+                    Cara membuat :</Paragraph>
+                <Paragraph>
+                    Campurkan air dengan tepung terigu, 25 gr gula pasir dan baking powder. Aduk hingga lembut.</Paragraph>
+                <Paragraph>
+                    Masukkan ragi instan dan diamkan kurang lebih 1 jam hingga 2 jam.</Paragraph>
+                <Paragraph>
+                    Kocok telur dan 25 gr gula pasit, kemudian masukkan kedalam adonan tepung martabak.</Paragraph>
+                <Paragraph>
+                    Panaskan loyang martabak dengan api kecil dan oles dengan sedikit margarin.</Paragraph>
+                <Paragraph>
+                    Tuangkan adonan martabak ke dalam loyang yang sudah panas, biarkan adonan hingga mengeluarkan buih. Lalu taburkan gula pasir, tutup hingga matang.</Paragraph>
+                <Paragraph>
+                    Angkat martabak dari cetakan lalu letakkan pada tempat datar. Olesi margarin, lalu taburkan keju atau meises.</Paragraph>
+                <Paragraph>
+                    Kemudian tuang susu kental manis diatas topping yang sudah ditaburkan sebelumnya. Tumpuk adonan lalu potong-potong menjadi beberapa bagian.</Paragraph>
+                <Paragraph>
+                    Sajikan selagi hangat.
+                </Paragraph>
+            </RichTextBlock>
+            <!--</Viewbox>-->
+        </ScrollViewer>
+    </Grid>
+</Page>
+

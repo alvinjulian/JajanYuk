@@ -35,3 +35,8 @@ c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\Ja
 c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.WindowsPhone\obj\Debug\ResepPempekDos.g.cs
 c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.WindowsPhone\obj\Debug\ResepPempekDos.xaml
 c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.WindowsPhone\obj\Debug\ResepPempekDos.xbf
+c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.WindowsPhone\bin\Debug\ResepMartabakManis.xbf
+c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.WindowsPhone\obj\Debug\ResepMartabakManis.g.i.cs
+c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.WindowsPhone\obj\Debug\ResepMartabakManis.g.cs
+c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.WindowsPhone\obj\Debug\ResepMartabakManis.xaml
+c:\Users\Alvin Julian\Documents\Visual Studio 2013\Projects\JajanYuk\JajanYuk\JajanYuk.WindowsPhone\obj\Debug\ResepMartabakManis.xbf

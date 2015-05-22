@@ -29,6 +29,11 @@ namespace JajanYuk
             this.NavigationCacheMode = NavigationCacheMode.Required;
         }
 
+        //private void InitializeComponent()
+        //{
+        //    throw new NotImplementedException();
+        //}
+
         /// <summary>
         /// Invoked when this page is about to be displayed in a Frame.
         /// </summary>
@@ -50,5 +55,13 @@ namespace JajanYuk
             ResepPempekDos pagePempek = new ResepPempekDos();
             this.Content = pagePempek;
         }
+
+        private void btn_MartabakManis_Click(object sender, RoutedEventArgs e)
+        {
+            ResepMartabakManis pageMartabak = new ResepMartabakManis();
+            this.Content = pageMartabak;
+        }
+
+
     }
 }
